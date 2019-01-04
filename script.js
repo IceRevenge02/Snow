@@ -1,3 +1,4 @@
+//Snow
 let gravity;
 let snow = [];
 
